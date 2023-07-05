@@ -44,3 +44,33 @@ div#image{
     margin-top: 10px;
     border-radius: 10px;
 }
+
+div#first{
+    margin: 5px;
+    padding: 5px;
+}
+
+div#first > h1{
+    margin: 25px;
+    color: var(--cor1);
+    font-size: 1.25em;
+}
+
+div#first > p#contexto{
+    margin: 25px;
+    color: var(--cor2);
+    font-size: 1em;
+}
+
+div#first > p#right{
+    margin: 25px;
+    color: var(--cor3);
+    font-size: 1em;
+}
+
+div#first > p#left{
+    margin: 25px;
+    color: var(--cor2);
+    font-size: 1em;
+    align-items: left;
+}
