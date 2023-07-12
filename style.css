@@ -1,6 +1,7 @@
 @charset "UTF-8";
 
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
 
 *{
@@ -15,6 +16,8 @@
     --cor3: #56EBEF;
     --cor4: #15273F;
     --cor5: #0D1A2D;
+    --font1: 'Kanit', sans-serif;
+    --font2: 'Montserrat', sans-serif;
 }
 
 body{
@@ -66,15 +69,24 @@ div#first > p#contexto{
     font-size: 1em;
 }
 
-div#first > p#right{
+div#first > p#left{
     margin: 25px;
     color: var(--cor3);
     font-size: 1em;
 }
+div#first > p#left > img{
+    margin-left: 8px;
+    transform: translate(-7px, 3px);
+}
 
-div#first > p#left{
+div#first > p#right{
     margin: 25px;
     color: var(--cor2);
     font-size: 1em;
-    align-items: left;
+    text-align: right;
+    transform: translate(10px, -45px);
+}
+
+div#first > p#right > img{
+    transform: translate(-7px, 2px);
 }
