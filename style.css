@@ -55,6 +55,7 @@ div#image{
 div#first{
     margin: 5px;
     padding: 5px;
+    height: 190px;
 }
 
 div#first > h1{
