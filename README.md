@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Avantiermv/nft-preview-card-component-main)
-- Live Site URL: [](https://avantiermv.github.io/nft-preview-card-component-main/)
+- Solution URL: [The soluntion](https://github.com/Avantiermv/nft-preview-card-component-main)
+- Live Site URL: [Live site](https://avantiermv.github.io/nft-preview-card-component-main/)
 
 ## My process
 
